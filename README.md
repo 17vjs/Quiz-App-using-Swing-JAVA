@@ -9,6 +9,6 @@ The quiz can be given at your own convenience at any time and place.
 The full screen mode makes it impossible for the  participant to switch to other apps.
 
 ### Output
-![alt text](./src/res/ss1.png "Screenshot")
-![alt text](./src/res/ss2.png "Screenshot")
-![alt text](./src/res/ss3.png "Screenshot")
+![alt text](./src/res/ss1.PNG "Screenshot")
+![alt text](./src/res/ss2.PNG "Screenshot")
+![alt text](./src/res/ss3.PNG "Screenshot")
